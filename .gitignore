@@ -19,3 +19,6 @@
 # Avoid readmes
 README copy.md
 README-template.md
+
+# scss -> css
+/dist
