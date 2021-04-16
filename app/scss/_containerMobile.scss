@@ -1,0 +1,52 @@
+.container {
+  background-color: white;
+  margin: 9.25rem 1.5rem 5.3125rem 1.5rem;
+  padding: 3.125rem 1rem;
+  text-align: center;
+  border-radius: 2rem;
+
+  h1 {
+    margin: 1rem 0;
+    padding-top: 4.5rem;
+    font-size: 2rem;
+    color: $veryDarkDesaturatedBlue;
+  }
+
+  &__images {
+    height: 0;
+
+    &.mobile {
+      position: relative;
+      background-image: url("/images/bg-pattern-mobile.svg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 240px;
+      height: 104px;
+      margin: 0 auto;
+      top: -50px;
+
+      &::before {
+        content: "";
+        position: absolute;
+        background-image: url("/images/illustration-woman-online-mobile.svg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 266px;
+        height: 196px;
+        top: -108px;
+        right: 0;
+      }
+    }
+  }
+
+  &__image.desktop {
+    display: none;
+  }
+}
+
+@media (max-width: 374px) {
+  .container {
+    background-color: white;
+    margin: 6.475rem 0.75rem 2.65rem 0.75rem;
+  }
+}
