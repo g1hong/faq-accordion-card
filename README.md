@@ -5,7 +5,7 @@
 - 챌린지 출처 URL : https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 - 사용언어 : HTML5, SCSS, Javascript
 - 시작일 : 2021년 4월 15일
-- 종료일 :
+- 종료일 : 2021년 4월 17일
 
 ## 작업일지
 
@@ -21,3 +21,4 @@
 21.04.17 )
 
 - 데스크탑 기준 illust css 완성
+- FAQ 아코디언 js 완성, illust 위치조정

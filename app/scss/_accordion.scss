@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    // border-bottom: 1px solid $lightGrayshBlue;
+    cursor: pointer;
 
     h3 {
       margin: 1.25rem 0;
@@ -15,6 +15,9 @@
       font-weight: 400;
       letter-spacing: -0.5px;
       text-align: left;
+    }
+    span > img.flip {
+      transform: scaleY(-1);
     }
   }
   p {
@@ -26,8 +29,8 @@
     color: $darkGrayishBlue;
     display: none;
 
-    &.sample {
-      // display: block;
+    &.open {
+      display: block;
     }
   }
 }
