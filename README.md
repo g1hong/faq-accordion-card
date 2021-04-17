@@ -14,6 +14,10 @@
 - git repository 생성 및 업로드
 - global 속성, 모바일기준 illust 위치
 
-  21.04.16 )
+21.04.16 )
 
 - 모바일기준 illust css 수정(가상클래스 사용), 완성
+
+21.04.17 )
+
+- 데스크탑 기준 illust css 완성

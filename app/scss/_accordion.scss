@@ -27,7 +27,16 @@
     display: none;
 
     &.sample {
-      display: block;
+      // display: block;
+    }
+  }
+}
+@media (min-width: 1024px) {
+  .accordion {
+    .question {
+      h3 {
+        margin: 1.0625rem 0;
+      }
     }
   }
 }

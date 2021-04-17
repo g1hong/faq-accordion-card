@@ -14,8 +14,10 @@
 
   &__images {
     height: 0;
-
-    &.mobile {
+    .desktop {
+      display: none;
+    }
+    .mobile {
       position: relative;
       background-image: url("/images/bg-pattern-mobile.svg");
       background-size: cover;
@@ -46,7 +48,6 @@
 
 @media (max-width: 374px) {
   .container {
-    background-color: white;
     margin: 6.475rem 0.75rem 2.65rem 0.75rem;
   }
 }

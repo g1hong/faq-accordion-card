@@ -22,4 +22,4 @@ README-template.md
 
 # scss -> css
 /dist
-/copy
+app/copy
