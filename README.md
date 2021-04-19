@@ -29,7 +29,7 @@
 
 ### 스크린샷
 
-![mobile](/screenshots/mobile.png)
+![mobile](/screenshots/mobileMode.png)
 ![desktop](/screenshots/desktop.png)
 
 ### 링크
