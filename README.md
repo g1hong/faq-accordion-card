@@ -15,7 +15,6 @@
   - [참고자료](#참고자료)
 - [만든 이](#만든-이)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## 개요
 
