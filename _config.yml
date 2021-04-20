@@ -10,12 +10,12 @@ permalink: pretty
 # Setup
 title: faq-accordion-card
 tagline: Making FAQ accordion card component using HTML, SCSS and Javascript
-url: https://github.com/g1hong
+url: https://g1hong.github.io/faq-accordion-card
 baseurl: /faq-accordion-card/
 
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir: app/scss
+  sass_dir: _scss
   style: :compressed

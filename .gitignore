@@ -21,5 +21,10 @@ README copy.md
 README-template.md
 
 # scss -> css
-# /dist
+/dist
 app/copy
+
+_site/
+.sass-cache
+.DS_Store
+.ruby-version
