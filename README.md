@@ -35,7 +35,7 @@
 ### 링크
 
 - 챌린지 출처 URL : [frontendmentor.io](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
-<!-- - 작업물 사이트 URL: [Add live site URL here](https://your-live-site-url.com) -->
+- 작업물 사이트 URL: [g1hong.github.io/faq-accordion-card/](https://g1hong.github.io/faq-accordion-card/)
 
 ## 작업일지
 
@@ -73,6 +73,7 @@
 
 ### 개선할 부분
 - 1. github pages 를 이용해 웹호스팅을 했을 때 css가 제대로 적용되지 않고 html만 나와서 아쉬웠습니다. 앞으로 챌린지를 거치면서 scss를 많이 사용하게될 것 같은데 이 문제점을 해결해야 저의 작업물을 홈페이지 형식으로 보여드릴 수 있으므로 꼭 해결방법을 찾고자 합니다.
+- (21/4/21) css와 js, 이미지의 경로 지정에 문제가 있었음을 발견하고 이를 해결했습니다.
 
 - 2. 질문을 클릭했을 때 이에 대한 답변 p tag가 나오기/숨기기는 구현했지만 여기에서 더 나아가 다음에 비슷한 작업을 하게되면 display: none에 애니메이션을 넣고자 합니다. [참고사이트](https://blog.hyungsub.com/entry/display-none%EC%97%90-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
